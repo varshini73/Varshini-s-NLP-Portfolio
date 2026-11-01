@@ -1,0 +1,1 @@
+Before publishing, confirm: (1) exact first-day story, (2) exact Tamil quote if desired, (3) complete CAT 1/CAT 2 topic list, (4) code and output from both practical notebooks, (5) current screenshots and evaluation status for Tamil poetry retrieval, (6) Health Map status, (7) final gratitude letter, (8) user's own MP3 recordings at the end.
